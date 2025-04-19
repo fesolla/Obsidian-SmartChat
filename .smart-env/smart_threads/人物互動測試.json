@@ -1,0 +1,108 @@
+{
+  "path": ".smart-env/smart_threads/人物互動測試.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1739967907011,
+  "responses": {
+    "gemini-1739968126615": {
+      "id": "gemini-1739968126615",
+      "object": "chat.completion",
+      "created": 1739968133160,
+      "model": "gemini-1.5-pro",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "「啪啦！」一聲清脆的響聲，一個精緻的瓷盤應聲碎裂在地上。Lynn嚇得呆立在原地，淺棕色的長髮微微顫動，粉紅色的眼睛瞪得大大的，尾巴垂落下來。\n\n睦月花見聞聲趕來，看到地上的碎片，眉頭微微皺起。「Lynn，怎麼回事？」她語氣嚴肅，身為女僕長，她對女僕們的要求一向嚴格。\n\nLynn看到睦月花見，立刻像受驚的小貓一樣撲到你的身邊，雙手緊緊抱住你的手臂，把臉埋在你的肩膀上，細聲撒嬌道：「主人～人家不是故意的喵嗚～盤子它自己跳下去的啦～」她偷偷瞄了一眼睦月花見，尾巴不安地輕輕擺動。\n\n你輕輕拍了拍Lynn的頭，對睦月花見說：「沒事，只是個盤子而已。」\n\n睦月花見看著Lynn黏著你的樣子，嘆了口氣，語氣軟化下來：「Lynn，這次就算了，沒有下次了。」\n\nLynn聽到睦月花見放過自己，立刻從你身上跳下來，開心地喵了一声，尾巴高高翹起，在她身後興奮地搖來搖去。她為自己的小聰明感到得意，蹦蹦跳跳地想要去收拾地上的碎片。\n\n「砰！」Lynn不小心撞到旁邊的桌子，一個漂亮的花盆被碰落在地，摔成碎片。Lynn再次愣住，粉紅色的眼睛裡充滿了驚恐，尾巴無力地垂下，嘴巴微微張開，發出小小的「喵」聲。\n"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 10075,
+        "completion_tokens": 360,
+        "total_tokens": 10435
+      }
+    }
+  },
+  "messages": {
+    "user-1-1739968123999-1": 1,
+    "assistant-2-1739968126615-1": 2
+  },
+  "branches": {},
+  "class_name": "ScThread",
+  "key": "人物互動測試",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "人物互動測試",
+      "content": [
+        {
+          "type": "text",
+          "text": "{請輸出下面這段文字所描述的情節：[[Lynn]]打破盤子了，身為女僕長的[[女僕祕書]]想要責罵她，[[Lynn]]愛怕的纏著身為主人的我撒嬌，最終[[女僕祕書]]看在我的面子上而沒有罵她，只告訴她沒有下一次。[[Lynn]]為自己的小聰明得意忘形，又不小心打破了另外一個花盆}"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1739968123999-1",
+      "context": {
+        "internal_links": [
+          "AI測試用/Lynn.md",
+          "AI測試用/女僕祕書.md",
+          "AI測試用/Lynn.md",
+          "AI測試用/女僕祕書.md",
+          "AI測試用/Lynn.md"
+        ]
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1739968123999-1",
+      "key": "人物互動測試#user-1-1739968123999-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "人物互動測試",
+      "content": "「啪啦！」一聲清脆的響聲，一個精緻的瓷盤應聲碎裂在地上。Lynn嚇得呆立在原地，淺棕色的長髮微微顫動，粉紅色的眼睛瞪得大大的，尾巴垂落下來。\n\n睦月花見聞聲趕來，看到地上的碎片，眉頭微微皺起。「Lynn，怎麼回事？」她語氣嚴肅，身為女僕長，她對女僕們的要求一向嚴格。\n\nLynn看到睦月花見，立刻像受驚的小貓一樣撲到你的身邊，雙手緊緊抱住你的手臂，把臉埋在你的肩膀上，細聲撒嬌道：「主人～人家不是故意的喵嗚～盤子它自己跳下去的啦～」她偷偷瞄了一眼睦月花見，尾巴不安地輕輕擺動。\n\n你輕輕拍了拍Lynn的頭，對睦月花見說：「沒事，只是個盤子而已。」\n\n睦月花見看著Lynn黏著你的樣子，嘆了口氣，語氣軟化下來：「Lynn，這次就算了，沒有下次了。」\n\nLynn聽到睦月花見放過自己，立刻從你身上跳下來，開心地喵了一声，尾巴高高翹起，在她身後興奮地搖來搖去。她為自己的小聰明感到得意，蹦蹦跳跳地想要去收拾地上的碎片。\n\n「砰！」Lynn不小心撞到旁邊的桌子，一個漂亮的花盆被碰落在地，摔成碎片。Lynn再次愣住，粉紅色的眼睛裡充滿了驚恐，尾巴無力地垂下，嘴巴微微張開，發出小小的「喵」聲。\n",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1739968126615-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1739968126615",
+      "branch_i": "1739968126615-1",
+      "key": "人物互動測試#assistant-2-1739968126615-1"
+    }
+  ]
+}

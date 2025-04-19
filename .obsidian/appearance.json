@@ -1,0 +1,16 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "accentColor": "#d08d26",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "blue_links",
+    "blue-links",
+    "timeline-color",
+    "timecolor",
+    "dataview-display",
+    "note"
+  ]
+}

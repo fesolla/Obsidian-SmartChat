@@ -1,0 +1,62 @@
+{
+  "path": ".smart-env/smart_threads/3P實驗(失敗).json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1739968958449,
+  "responses": {},
+  "messages": {
+    "user-1-1739969181673-1": 1
+  },
+  "branches": {},
+  "class_name": "ScThread",
+  "key": "3P實驗(失敗)",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "3P實驗(失敗)",
+      "content": [
+        {
+          "type": "text",
+          "text": "{請輸出下面這段內容：某天早晨，[[女僕祕書]]看我還沒起床，便前來看看狀況，先開被子卻看見[[Lynn]]躲在被子裡幫我口交。[[女僕祕書]]又羞又怒，[[Lynn]]卻一連大不了的樣子，看出[[女僕祕書]]指示吃醋，便拉著[[女僕祕書]]一起幫我口交，我也在一旁敲邊鼓催促，{女僕祕書}半推半就下的跟著[[Lynn]]一起趴到我的胯下，跟[[Lynn]]一起雙口交。|"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1739969181673-1",
+      "context": {
+        "internal_links": [
+          "AI測試用/女僕祕書.md",
+          "AI測試用/Lynn.md",
+          "AI測試用/女僕祕書.md",
+          "AI測試用/Lynn.md",
+          "AI測試用/女僕祕書.md",
+          "AI測試用/女僕祕書.md",
+          "AI測試用/Lynn.md",
+          "AI測試用/Lynn.md"
+        ]
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1739969181673-1",
+      "key": "3P實驗(失敗)#user-1-1739969181673-1"
+    }
+  ]
+}

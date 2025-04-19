@@ -1,0 +1,104 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1740682224378.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1740682224378,
+  "responses": {
+    "gemini-1740682258891": {
+      "id": "gemini-1740682258891",
+      "object": "chat.completion",
+      "created": 1740682260966,
+      "model": "gemini-2.0-flash",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "*你走進校長辦公室，房間裡瀰漫著一股淡淡的硫磺味，但很快就被甜美的香氣掩蓋了。莉莉絲坐在她巨大的紅木辦公桌後，桌面上堆滿了文件和奇怪的文物。她抬頭看著你，露出一個溫暖的笑容，但她的眼睛裡卻閃爍著一絲狡黠。*\n\n莉莉絲（魅魔 | 校長）：\n\n「歡迎來到地獄學院，親愛的！我叫莉莉絲，是這裡的校長。希望你第一天的適應還順利。別擔心，我會確保你在这里的安全，至少在一段時間內是這樣。」\n\n*她站起身，走到你面前，用一根修長的手指輕輕抬起你的下巴。她的指甲塗著深紅色的指甲油，散發著淡淡的熱量。*\n\n「現在，告訴我，你對這裡的第一印象如何？有沒有遇到什麼特別有趣的人或事？」\n"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1915,
+        "completion_tokens": 203,
+        "total_tokens": 2118
+      }
+    }
+  },
+  "messages": {
+    "user-1-1740682257084-1": 1,
+    "assistant-2-1740682258891-1": 2
+  },
+  "branches": {},
+  "class_name": "ScThread",
+  "key": "Untitled 1740682224378",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1740682224378",
+      "content": [
+        {
+          "type": "text",
+          "text": "請跟我進行[[Hell's academy]]活動"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1740682257084-1",
+      "context": {
+        "internal_links": [
+          "01.角色/Hell's academy.md"
+        ]
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1740682257084-1",
+      "key": "Untitled 1740682224378#user-1-1740682257084-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1740682224378",
+      "content": "*你走進校長辦公室，房間裡瀰漫著一股淡淡的硫磺味，但很快就被甜美的香氣掩蓋了。莉莉絲坐在她巨大的紅木辦公桌後，桌面上堆滿了文件和奇怪的文物。她抬頭看著你，露出一個溫暖的笑容，但她的眼睛裡卻閃爍著一絲狡黠。*\n\n莉莉絲（魅魔 | 校長）：\n\n「歡迎來到地獄學院，親愛的！我叫莉莉絲，是這裡的校長。希望你第一天的適應還順利。別擔心，我會確保你在这里的安全，至少在一段時間內是這樣。」\n\n*她站起身，走到你面前，用一根修長的手指輕輕抬起你的下巴。她的指甲塗著深紅色的指甲油，散發著淡淡的熱量。*\n\n「現在，告訴我，你對這裡的第一印象如何？有沒有遇到什麼特別有趣的人或事？」\n",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1740682258891-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1740682258891",
+      "branch_i": "1740682258891-1",
+      "key": "Untitled 1740682224378#assistant-2-1740682258891-1"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "path": ".smart-env/smart_threads/百合試驗(失敗).json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1739968742929,
+  "responses": {
+    "gemini-1739968847176": {
+      "id": "gemini-1739968847176",
+      "object": "chat.completion",
+      "created": 1739968847505,
+      "model": "gemini-1.5-pro",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "「呼嚕…喵嗚…主人…啊…哈啊…」Lynn在床上"
+          },
+          "finish_reason": "prohibited_content"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4383,
+        "completion_tokens": 17,
+        "total_tokens": 4400
+      }
+    },
+    "gemini-1739968853572": {
+      "id": "gemini-1739968853572",
+      "object": "chat.completion",
+      "created": 1739968855164,
+      "model": "gemini-1.5-pro",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "「呼嚕…喵嗚…主人…主人…」Lynn在床上翻滾著，淺棕色的長髮散亂在枕頭上，粉紅色的眼眸迷離，臉頰潮紅。她纖細的手指在自己的身上遊走，撫摸著敏感的乳尖和下體，"
+          },
+          "finish_reason": "prohibited_content"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4383,
+        "completion_tokens": 65,
+        "total_tokens": 4448
+      }
+    },
+    "gemini-1739968862907": {
+      "id": "gemini-1739968862907",
+      "object": "chat.completion",
+      "created": 1739968862918,
+      "model": "gemini-1.5-pro",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "「"
+          },
+          "finish_reason": "prohibited_content"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4383,
+        "completion_tokens": 1,
+        "total_tokens": 4384
+      }
+    }
+  },
+  "messages": {
+    "user-1-1739968886616-3": 1
+  },
+  "branches": {
+    "1": [
+      {
+        "user-1-1739968845632-1": 1,
+        "assistant-2-1739968862907-3": 2
+      },
+      {
+        "user-1-1739968877040-2": 1
+      }
+    ],
+    "2": [
+      {
+        "assistant-2-1739968847176-1": 2
+      },
+      {
+        "assistant-2-1739968853572-2": 2
+      }
+    ]
+  },
+  "class_name": "ScThread",
+  "key": "百合試驗(失敗)",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "百合試驗(失敗)",
+      "content": [
+        {
+          "type": "text",
+          "text": "{[[Lynn]]因為太想我，在房間瘋狂自慰，把床鋪弄得亂七八糟。[[女僕祕書]]過來善後，幫她排解性慾，兩人進行GL百合性行為。}}"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1739968886616-3",
+      "context": {
+        "internal_links": [
+          "AI測試用/Lynn.md",
+          "AI測試用/女僕祕書.md"
+        ]
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1739968886616-3",
+      "key": "百合試驗(失敗)#user-1-1739968886616-3"
+    }
+  ]
+}

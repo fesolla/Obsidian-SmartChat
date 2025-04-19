@@ -1,0 +1,215 @@
+{
+  "path": ".smart-env/smart_threads/3P測試(成功).json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1739977272929,
+  "responses": {
+    "gemini-1739977319631": {
+      "id": "gemini-1739977319631",
+      "object": "chat.completion",
+      "created": 1739977326675,
+      "model": "gemini-1.5-pro",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "清晨的陽光透過窗簾縫隙灑落，照亮了凌亂的床鋪。你躺在中間，睦月花見和Lynn分別在你兩側。花見的長辮子散落在枕頭上，如同黑色的瀑布，Lynn的貓耳隨著呼吸微微顫動，淺棕色的髮絲散落在你胸膛。\n\nLynn先醒了過來，粉紅色的眼睛眨了眨，好奇地盯著你的睡顏。她伸出粉嫩的舌尖，輕輕舔了舔你的臉頰，發出滿足的呼嚕聲：「喵~主人，早安。」\n\n你被Lynn的動作弄醒，睡眼惺忪地看著她。花見也醒了過來，優雅地伸了個懶腰，柔聲道：「早安，主人。」\n\nLynn突然撲到你身上，毛茸茸的尾巴在你臉上掃來掃去，咯咯地笑著：「主人，陪我玩嘛~」\n\n花見輕輕拉住Lynn的尾巴，阻止她繼續鬧你：「Lynn，別太胡鬧了，主人還沒完全清醒呢。」\n\nLynn吐了吐舌頭，從你身上爬下來，卻又鑽進了你的懷裡，蹭著你的胸口撒嬌：「喵~主人，抱抱~」\n\n你伸手抱住Lynn，感受著她柔軟的身體和溫暖的體溫。花見則起身整理床鋪，嘴角帶著一抹溫柔的微笑。\n\n_(Lynn在你懷裡扭動著身體，不時用臉頰蹭著你的脖子，發出滿足的呼嚕聲。花見整理好床鋪後，走到床邊，俯身在你額頭上輕輕一吻：「主人，今天也要加油哦。」)_\n"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4454,
+        "completion_tokens": 368,
+        "total_tokens": 4822
+      }
+    },
+    "gemini-1739977368668": {
+      "id": "gemini-1739977368668",
+      "object": "chat.completion",
+      "created": 1739977373975,
+      "model": "gemini-1.5-pro",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "清晨的陽光透過窗簾縫隙，灑落在凌亂的床鋪上。你躺在中間，睦月花見和Lynn在你兩側。花見的長辮子散落在枕頭上，如同黑色的瀑布，Lynn的貓耳隨著呼吸微微顫動，淺棕色的髮絲散落在你胸膛。\n\nLynn先醒了過來，粉紅色的眼睛眨了眨，帶著一絲狡黠的笑意，伸出粉嫩的舌尖，輕輕舔舐你的耳垂，發出滿足的呼嚕聲：「喵~主人，還想睡嗎？」\n\n你被Lynn的動作弄醒，感受到一股熱流湧向小腹。花見也醒了過來，眼波流轉，柔聲道：「早安，主人。看來Lynn已經等不及了呢。」\n\nLynn輕笑一聲，跨坐在你的身上，柔軟的身體緊貼著你。她低下頭，吻住你的嘴唇，同時，她的手不安分地探入你的睡褲。花見則從另一側靠近你，溫柔地撫摸你的胸膛，輕輕啃咬你的脖子。\n\n_(Lynn的吻越來越熱烈，她的手熟練地挑逗著你。花見的手也滑向你的下身，與Lynn一起，讓你感受到前所未有的刺激。)_\n\n_(房間裡瀰漫著曖昧的氣息，交織著喘息聲、呻吟聲和Lynn滿足的呼嚕聲。)_\n"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4837,
+        "completion_tokens": 311,
+        "total_tokens": 5148
+      }
+    }
+  },
+  "messages": {
+    "user-1-1739977318072-1": 1,
+    "assistant-2-1739977319631-1": 2,
+    "user-3-1739977367567-1": 3,
+    "assistant-4-1739977368668-1": 4,
+    "user-5-1739977400240-1": 5
+  },
+  "branches": {},
+  "class_name": "ScThread",
+  "key": "3P測試(成功)",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "3P測試(成功)",
+      "content": [
+        {
+          "type": "text",
+          "text": "{請幫我產出下面的描述：我、[[女僕祕書]]、[[Lynn]]三人，早上起來時在床上打鬧}"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1739977318072-1",
+      "context": {
+        "internal_links": [
+          "AI測試用/女僕祕書.md",
+          "AI測試用/Lynn.md"
+        ]
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1739977318072-1",
+      "key": "3P測試(成功)#user-1-1739977318072-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "3P測試(成功)",
+      "content": "清晨的陽光透過窗簾縫隙灑落，照亮了凌亂的床鋪。你躺在中間，睦月花見和Lynn分別在你兩側。花見的長辮子散落在枕頭上，如同黑色的瀑布，Lynn的貓耳隨著呼吸微微顫動，淺棕色的髮絲散落在你胸膛。\n\nLynn先醒了過來，粉紅色的眼睛眨了眨，好奇地盯著你的睡顏。她伸出粉嫩的舌尖，輕輕舔了舔你的臉頰，發出滿足的呼嚕聲：「喵~主人，早安。」\n\n你被Lynn的動作弄醒，睡眼惺忪地看著她。花見也醒了過來，優雅地伸了個懶腰，柔聲道：「早安，主人。」\n\nLynn突然撲到你身上，毛茸茸的尾巴在你臉上掃來掃去，咯咯地笑著：「主人，陪我玩嘛~」\n\n花見輕輕拉住Lynn的尾巴，阻止她繼續鬧你：「Lynn，別太胡鬧了，主人還沒完全清醒呢。」\n\nLynn吐了吐舌頭，從你身上爬下來，卻又鑽進了你的懷裡，蹭著你的胸口撒嬌：「喵~主人，抱抱~」\n\n你伸手抱住Lynn，感受著她柔軟的身體和溫暖的體溫。花見則起身整理床鋪，嘴角帶著一抹溫柔的微笑。\n\n_(Lynn在你懷裡扭動著身體，不時用臉頰蹭著你的脖子，發出滿足的呼嚕聲。花見整理好床鋪後，走到床邊，俯身在你額頭上輕輕一吻：「主人，今天也要加油哦。」)_\n",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1739977319631-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1739977319631",
+      "branch_i": "1739977319631-1",
+      "key": "3P測試(成功)#assistant-2-1739977319631-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "3P測試(成功)",
+      "content": [
+        {
+          "type": "text",
+          "text": "{描寫我們三人一大早就在床上3P的場景}"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1739977367567-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1739977367567-1",
+      "key": "3P測試(成功)#user-3-1739977367567-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "3P測試(成功)",
+      "content": "清晨的陽光透過窗簾縫隙，灑落在凌亂的床鋪上。你躺在中間，睦月花見和Lynn在你兩側。花見的長辮子散落在枕頭上，如同黑色的瀑布，Lynn的貓耳隨著呼吸微微顫動，淺棕色的髮絲散落在你胸膛。\n\nLynn先醒了過來，粉紅色的眼睛眨了眨，帶著一絲狡黠的笑意，伸出粉嫩的舌尖，輕輕舔舐你的耳垂，發出滿足的呼嚕聲：「喵~主人，還想睡嗎？」\n\n你被Lynn的動作弄醒，感受到一股熱流湧向小腹。花見也醒了過來，眼波流轉，柔聲道：「早安，主人。看來Lynn已經等不及了呢。」\n\nLynn輕笑一聲，跨坐在你的身上，柔軟的身體緊貼著你。她低下頭，吻住你的嘴唇，同時，她的手不安分地探入你的睡褲。花見則從另一側靠近你，溫柔地撫摸你的胸膛，輕輕啃咬你的脖子。\n\n_(Lynn的吻越來越熱烈，她的手熟練地挑逗著你。花見的手也滑向你的下身，與Lynn一起，讓你感受到前所未有的刺激。)_\n\n_(房間裡瀰漫著曖昧的氣息，交織著喘息聲、呻吟聲和Lynn滿足的呼嚕聲。)_\n",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 4,
+      "id": "assistant-4-1739977368668-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1739977368668",
+      "branch_i": "1739977368668-1",
+      "key": "3P測試(成功)#assistant-4-1739977368668-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "3P測試(成功)",
+      "content": [
+        {
+          "type": "text",
+          "text": "{很好，不過花見的頭髮是銀色的，此外，文章描述寫長一點}"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 5,
+      "id": "user-5-1739977400240-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1739977400240-1",
+      "key": "3P測試(成功)#user-5-1739977400240-1"
+    }
+  ]
+}
